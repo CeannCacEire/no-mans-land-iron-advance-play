@@ -1,6 +1,6 @@
 # No Man's Land: Iron Advance
 
-![No Man's Land: Iron Advance](images/cover.jpg)
+<img src="images/cover.jpg" width="630" height="500" alt="No Man's Land: Iron Advance">
 
 A first-person World War I trench assault. Advance from your trench, cross no man's land, capture the enemy trench and seize the flag, armed with one bolt-action rifle, a fixed bayonet and a few stick grenades.
 
